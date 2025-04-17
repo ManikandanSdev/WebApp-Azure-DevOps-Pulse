@@ -10,7 +10,7 @@ resources:
 
 variables:
 
-  # Container registry service connection established during pipeline creation
+  # zyz  Container registry service connection established during pipeline creation
   dockerRegistryServiceConnection: '7ce433e9-e55f-44ae-aea7-c5ca543465d5'
   imageRepository: 'aksimage'
   containerRegistry: 'azurecontainerregistry7777.azurecr.io'
